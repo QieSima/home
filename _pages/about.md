@@ -12,12 +12,14 @@ Welcome! I am a graduate student from Department of Computer Science and Technol
 
 My research interest mainly focus on Embodied Intelligence, Robotic Manipulation and Multimodal learning. My previous works involves the navigation and mobile manipulation in embodied scenarios (AI2THOR, Habitat et al.). Currently, I am working in leveraging large pre-trained models in embodied intelligence. My ultimate goal is to discover generalizable representations for a wide range of robot skills.
 
+I am currently searching for Ph.D positions. If you have positions in related subjects, please feel free to contact me.
+
 News
 ======
-- \[10/2023\] Attend the IROS 2023 with 2 presented posters in Detriot!
-- \[08/2023\] Working as a research engineer in Lenovo Research.
-- \[07/2023\] Graduate from Tsinghua University with M.Sc degree in Computer Science.
-- \[06/2023\] Two papers are accepted by IROS 2023.
+- **\[10/2023\]** Attend the IROS 2023 with 2 presented posters in Detroit!
+- **\[08/2023\]** Working as a research engineer in Lenovo Research.
+- **\[07/2023\]** Graduate from Tsinghua University with M.Sc degree in Computer Science.
+- **\[06/2023\]** Two papers are accepted by IROS 2023.
 
 Getting started
 ======
