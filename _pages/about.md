@@ -21,18 +21,18 @@ News
 - **\[07/2023\]** Graduate from Tsinghua University with M.Sc degree in Computer Science.
 - **\[06/2023\]** Two papers are accepted by IROS 2023.
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Aug 2020 - Jun 2023 Master Student, Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/home)
+- Sep 2019 - Feb 2020 Visit Student, Department of Mechanical Engineering, Georgia Institue of Technology. Advisor: [Prof. Ye Zhao](https://sites.google.com/site/yezhaout)
+- Aug 2016 - Jun 2020 Bachelor Student, School of Aerospace Engineering, Tsinghua University. TEEP (Tsien's Excellence Education Program).
 
-Site-wide configuration
+Publication
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Wijayarathne, L., **Sima, Q.**, Zhou, Z., Zhao, Y., & Hammond, F. L. (2020). Simultaneous trajectory optimization and force control with soft contact mechanics. 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 3164–3171. IEEE.
+- **Sima, Q.**, Tan, S., Liu, H., Sun, F., Xu, W., & Fu, L. (2023). Embodied Referring Expression for Manipulation Question Answering in Interactive Environment. 2023 IEEE International Conference on Robotics and Automation (ICRA), 7635–7641. IEEE.
+- Yang, T., Jing, Y., Wu, H., Xu, J., Sima, K., Chen, G., **Sima, Q.**, & Kong, T. (2023). MOMA-Force: Visual-Force Imitation for Real-World Mobile Manipulation. 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+- Jing, Y., Zhu, X., Liu, X., **Sima, Q.**, Yang, T., Feng, Y., & Kong, T. (2023). Exploring visual pre-training for robot manipulation: Datasets, models and methods. 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 Create content & metadata
 ------
